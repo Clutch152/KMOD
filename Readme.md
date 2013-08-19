@@ -1,4 +1,4 @@
-Kmod version 1.0
+Kmod version 1.1b
 
 Installation:  
 Extract all files into the etpro folder on your server.  
