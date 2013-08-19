@@ -28,7 +28,7 @@ SOURCES:
 Some code and ideas dirived from G073nks which can be found here
 http://wolfwiki.anime.net/index.php/User:Gotenks
 
-Code to get slot number from name was from the slap command I found on the ETPro forum here 
+Code to get slot number from name was from the slap command I found on the ETPro forum here
 http://bani.anime.net/banimod/forums/viewtopic.php?t=6579&highlight=slap
 
 Infty's NoKill lua code was used and edited for the slashkill limit which can be found here
