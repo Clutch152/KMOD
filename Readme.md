@@ -11,31 +11,34 @@ set lua_modules "kmod.lua"
 exec kmod.cfg
 
 CREDITS:
-	Special to
-		Noobology
-		Armymen
-		Rikku
-		Monkey Spawn
-		Brunout
-		Dominator
-		James
-		Pantsless Victims
-	For helping with testing
+Special thanks to
+
+Noobology
+Armymen
+Rikku
+Monkey Spawn
+Brunout
+Dominator
+James
+Pantsless Victims
+
+For helping with testing
 
 SOURCES:
-	Some code and ideas dirived from G073nks which can be found here
-		http://wolfwiki.anime.net/index.php/User:Gotenks
-	Code to get slot number from name was from the slap command I found on the ETPro forum here 
-		http://bani.anime.net/banimod/forums/viewtopic.php?t=6579&highlight=slap
-	Infty's NoKill lua code was used and edited for the slashkill limit which can be found here
-		http://wolfwiki.anime.net/index.php/User:Infty
-	Ideas dirived from ETAdmin_mod found here
-		http://et.d1p.de/etadmin_mod/wiki/index.php/Main_Page
+Some code and ideas dirived from G073nks which can be found here
+http://wolfwiki.anime.net/index.php/User:Gotenks
 
-	If you see your code in here let me know and I'll add you to the credits for future releases
+Code to get slot number from name was from the slap command I found on the ETPro forum here 
+http://bani.anime.net/banimod/forums/viewtopic.php?t=6579&highlight=slap
 
-	The rest of the code is mine :D
+Infty's NoKill lua code was used and edited for the slashkill limit which can be found here
+http://wolfwiki.anime.net/index.php/User:Infty
 
+Ideas dirived from ETAdmin_mod found here
+http://et.d1p.de/etadmin_mod/wiki/index.php/Main_Page
+
+If you see your code in here let me know and I'll add you to the credits for future releases
+The rest of the code is mine :D
 
 
 Visit the wiki for more information
